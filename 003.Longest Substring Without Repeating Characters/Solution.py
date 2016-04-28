@@ -26,7 +26,4 @@ def lengthOfLongestSubstring(s):
     else:
         return maxnum
 
-s = "abcabcbb"
 
-num = lengthOfLongestSubstring(s)
-print num
