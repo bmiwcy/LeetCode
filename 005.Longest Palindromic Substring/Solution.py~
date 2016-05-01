@@ -1,0 +1,5 @@
+def test(s,l,r):
+    while 1==1:
+        print "hi"
+
+test(1,2,3)
